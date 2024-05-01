@@ -25,6 +25,9 @@ To run the example provided in `main.py`:
 ```bash
 python main.py
 
+```
+
 ### Customize
 
 You can customize the neural network by modifying the weights, biases, number of layers, and activation functions in the main.py file. Additionally, you can explore the NeuralNetwork class in neural_network.py to understand how the network is structured and make further modifications as needed.
+
